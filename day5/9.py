@@ -1,4 +1,4 @@
-# 40:21 from my start of 7
+# 40:21 from my start of 9
 #data = open("9_test_data.txt", "r")
 data = open("9_data.txt", "r")
 steps = ['seed-to-soil',

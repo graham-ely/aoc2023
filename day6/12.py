@@ -1,4 +1,4 @@
-# 19:30 from my start of 7
+# 19:30 from my start of 11
 #data = open("12_test_data.txt", "r")
 data = open("12_data.txt", "r")
 
